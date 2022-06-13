@@ -59,7 +59,7 @@ if(!empty($_POST['remove'])) {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Utilizatori | Cup & Cake</title>
+    <title>Utilizatori | Inghetata Mirunata</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -96,7 +96,7 @@ if(!empty($_POST['remove'])) {
 
     <section class="home-slider owl-carousel">
 
-      <div class="slider-item" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image: url(images/blog.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center">

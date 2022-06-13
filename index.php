@@ -280,7 +280,7 @@ if(!empty($_SESSION['user_type'])){
 
   <!-- Our Story -->
     <section class="ftco-about d-md-flex">
-    	<div class="one-half img" style="background-image: url(images/about-us.jpg);"></div>
+    	<div class="one-half img" style="background-image: url(images/flower.jpg);"></div>
     	<div class="one-half ftco-animate">
     		<div class="overlap">
 	        <div class="heading-section ftco-animate ">
@@ -344,8 +344,8 @@ if(!empty($_SESSION['user_type'])){
     				<div class="heading-section text-md-right ftco-animate">
 	          	<span class="subheading">Descoperă</span>
 	            <h2 class="mb-4">Meniul nostru</h2>
-	            <p class="mb-4">Acea descriere care descire o anumită descriere despre descrierea care descrie și va descrie o altă descriere care descrie și va descrie o descriere mai detaliată
-              a descrierii pe care a descris-o descrierea descrisă cu descrierea descrierii</p>
+	            <p class="mb-4">Înghetata cu stare de bine! Cam așa se rezumă sentimentul pe care îl ai atunci când savurezi înghețata Mirunata! Varietatea aromelor vor sta startul unei zile de vara indiferent de sezon!
+              </p>
 	            <p><a href="menu.php" class="btn btn-primary btn-outline-primary px-4 py-3">Vezi Meniul</a></p>
 	          </div>
     			</div>
@@ -353,22 +353,22 @@ if(!empty($_SESSION['user_type'])){
     				<div class="row">
     					<div class="col-md-6">
     						<div class="menu-entry">
-		    					<a href="#" class="img" style="background-image: url(images/menu-5.jpg);"></a>
+		    					<a href="#" class="img" style="background-image: url(images/pink.jpg);"></a>
 		    				</div>
     					</div>
     					<div class="col-md-6">
     						<div class="menu-entry mt-lg-4">
-		    					<a href="#" class="img" style="background-image: url(images/menu-2.jpg);"></a>
+		    					<a href="#" class="img" style="background-image: url(images/afine.jpg);"></a>
 		    				</div>
     					</div>
     					<div class="col-md-6">
     						<div class="menu-entry">
-		    					<a href="#" class="img" style="background-image: url(images/menu-3.jpg);"></a>
+		    					<a href="#" class="img" style="background-image: url(images/unicorn.jpg);"></a>
 		    				</div>
     					</div>
     					<div class="col-md-6">
     						<div class="menu-entry mt-lg-4">
-		    					<a href="#" class="img" style="background-image: url(images/menu-4.jpg);"></a>
+		    					<a href="#" class="img" style="background-image: url(images/Oreo-Milkshake.jpg);"></a>
 		    				</div>
     					</div>
     				</div>
@@ -379,7 +379,7 @@ if(!empty($_SESSION['user_type'])){
 
 
 <!-- Statistics -->
-    <section class="ftco-counter ftco-bg-dark img" id="section-counter" style="background-image: url(images/bg_2.jpg);" data-stellar-background-ratio="0.5">
+    <section class="ftco-counter ftco-bg-dark img" id="section-counter" style="background-image: url(images/wall3.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-center">
@@ -435,7 +435,7 @@ if(!empty($_SESSION['user_type'])){
           <div class="col-md-7 heading-section ftco-animate text-center">
           	<span class="subheading">Descoperă</span>
             <h2 class="mb-4">Vedetele Inghetata Mirunata</h2>
-            <p>Descrieredescrieredescrieredescrieredescrieredescrieredescrieredescrieredescriere descriere descriere descriere descriere</p>
+            <p>Varietatea mirunata pe care o avem ii va convinge si pe cei mai mari critici. Aici gasesti orice aroma pe gustul tau, fie ceva mai fresh, fie ceva mai dulce. Te asteptam sa le incerci!</p>
           </div>
         </div>
         <div class="row">
@@ -550,14 +550,14 @@ if(!empty($_SESSION['user_type'])){
 
 
 <!-- Customer reviews -->
-    <section class="ftco-section img" id="ftco-testimony" style="background-image: url(images/bg_1.jpg);"  data-stellar-background-ratio="0.5">
+    <section class="ftco-section img" id="ftco-testimony" style="background-image: url(images/check.jpg);"  data-stellar-background-ratio="0.5">
     	<div class="overlay"></div>
 	    <div class="container">
 	      <div class="row justify-content-center mb-5">
 	        <div class="col-md-7 heading-section text-center ftco-animate">
 	        	<span class="subheading">Gratitudine</span>
 	          <h2 class="mb-4">De la clienți</h2>
-	          <p>Descrieredescrieredescrieredescriere desc descriere despre descriere desdc desdcrie descriere desdsd</p>
+	          <p>Parerea ta conteaza! Lasa un feedback! Vrem sa ne imbunatatim calitatea si suntem curiosi de noi sugestii!</p>
 	        </div>
 	      </div>
 	    </div>
@@ -639,7 +639,7 @@ if(!empty($_SESSION['user_type'])){
     	<div class="container-wrap">
     		<div class="row no-gutters d-md-flex align-items-center">
     			<div class="col-md-6 d-flex align-self-stretch">
-						<img src="images/incap.jpg" class="img-fluid" >
+						<img src="images/store-mese.jpg" class="img-fluid" >
 					</div>
 
 
@@ -670,6 +670,9 @@ if(!empty($_SESSION['user_type'])){
 												<option value="masa 2">masa 2</option>
 												<option value="masa 3">masa 3</option>
 												<option value="masa 4">masa 4</option>
+												<option value="masa 5">masa 5</option>
+												<option value="masa 6">masa 6</option>
+												<option value="masa 7">masa 7</option>
 										</select>
 									</div>
 								</div>

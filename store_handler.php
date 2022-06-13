@@ -3,7 +3,7 @@ session_start();
 $dbServerName = "localhost";
 $dbUserName = "root";
 $dbPassword = "";
-$dbName = "cup_and_cake";
+$dbName = "inghetatamirunata";
 
 $conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 
@@ -54,7 +54,7 @@ $conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 		$dbServerName = "localhost";
 		$dbUserName = "root";
 		$dbPassword = "";
-		$dbName = "cup_and_cake";
+		$dbName = "inghetatamirunata";
 
 		$conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 
@@ -70,7 +70,7 @@ $conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 		$dbServerName = "localhost";
 		$dbUserName = "root";
 		$dbPassword = "";
-		$dbName = "cup_and_cake";
+		$dbName = "inghetatamirunata";
 
 		$conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 

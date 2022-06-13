@@ -47,7 +47,7 @@ session_start();
 <!-- Image slide -->
     <section class="home-slider owl-carousel">
 
-      <div class="slider-item" style="background-image: url(images/bg_8.jpg);" data-stellar-background-ratio="0.5">
+      <div class="slider-item" style="background-image: url(images/wall.jpg);" data-stellar-background-ratio="0.5">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row slider-text justify-content-center align-items-center">
@@ -119,7 +119,7 @@ session_start();
 	        				<span class="price">13.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Coacăze roșii dulci în combinație cu alune crocante</p>
+	        				<p>Delicioasa zmeura, de culoare rosu-roz stralucitor, este una dintre cele mai populare fructe de padure pe care vrei sa le savurezi!</p>
 	        			</div>
         			</div>
         		</div>
@@ -132,7 +132,7 @@ session_start();
 	        				<span class="price">11 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Frutctul citric cel mai popular, vedetă și printre fructe, și printre brioșe</p>
+	        				<p>Combinatia perfecta pentru iubitorii fructului rosu cu multe proprietati nutritive </p>
 	        			</div>
 	        		</div>
         		</div>
@@ -145,7 +145,7 @@ session_start();
 	        				<span class="price">12 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Gustul inedit de prune din copilărie </p>
+	        				<p>Ideal pentru o zi cu idei fresh. </p>
 	        			</div>
 	        		</div>
         		</div>
@@ -158,7 +158,7 @@ session_start();
 	        				<span class="price">12.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+	        				<p>Un gust ametitor de bun pentru fanii acestui fruct</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -171,7 +171,7 @@ session_start();
                   <span class="price">13 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Cupcake cu fructul exotic, ideal pentru zilele căludroase</p>
+                  <p>Inghetata cu fructul exotic, ideal pentru zilele căludroase de vara, alaturi de prieteni</p>
                 </div>
               </div>
             </div>
@@ -184,7 +184,7 @@ session_start();
                   <span class="price">13 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Cupcake cu fructul exotic, ideal pentru zilele căludroase</p>
+                  <p>Combinatia perfecta de fruct si iubita ciocolata</p>
                 </div>
               </div>
             </div>
@@ -197,7 +197,7 @@ session_start();
                   <span class="price">13 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Cupcake cu fructul exotic, ideal pentru zilele căludroase</p>
+                  <p>Inghetata cu fructul exotic, ideal pentru zilele căludroase</p>
                 </div>
               </div>
             </div>
@@ -210,7 +210,7 @@ session_start();
                   <span class="price">13 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Cupcake cu fructul exotic, ideal pentru zilele căludroase</p>
+                  <p>Combinatie fresh si roz, ideala pentru zilele căludroase</p>
                 </div>
               </div>
             </div>
@@ -230,7 +230,7 @@ session_start();
 	        				<span class="price">14.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Cupcake în stil exotic</p>
+	        				<p>Inghetata în stil exotic, perfecta pentru a da startul sezonului estival</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -243,7 +243,20 @@ session_start();
 	        				<span class="price">16 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Răsfățul tandru al cireșelor acompaniate de un strop de euforie</p>
+	        				<p>Combinatie inedita in care gustul acrisor de mar se imbina perfect cu scortisoara</p>
+	        			</div>
+	        		</div>
+        		</div>
+
+            <div class="pricing-entry d-flex ftco-animate">
+        			<div class="img" style="background-image: url(images/lavanderice.jpg);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Lavanda</span></h3>
+	        				<span class="price">16 RON</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Inghetata cu un strop de relaxare pentru acele zile cand ai nevoie de o pauza</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -256,7 +269,7 @@ session_start();
 	        				<span class="price">16 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Răsfățul tandru al cireșelor acompaniate de un strop de euforie</p>
+	        				<p>Răsfățul tandru al fisticului acompaniate de un strop de euforie</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -269,7 +282,7 @@ session_start();
 	        				<span class="price">16 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Răsfățul tandru al cireșelor acompaniate de un strop de euforie</p>
+	        				<p>Răsfățul tandru al copilariei acompaniat de un strop de euforie</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -282,7 +295,7 @@ session_start();
 	        				<span class="price">16 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Cupcake cu Prosecco îndulcite de o cremă de fructe </p>
+	        				<p>Combinatia perfecta pentru o zi de vineri </p>
 	        			</div>
 	        		</div>
         		</div>
@@ -295,7 +308,7 @@ session_start();
 	        				<span class="price">13 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Clasica combinație adorată, în forma unor brioșe</p>
+	        				<p>Clasica combinație adorată de domnisoare</p>
 	        			</div>
 	        		</div>
         		</div>
@@ -308,7 +321,7 @@ session_start();
                   <span class="price">15.5 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Cupcakes cu stil și gust amețitor de bun</p>
+                  <p>Inghetata cu stil și gust amețitor de bun</p>
                 </div>
               </div>
             </div>
@@ -318,71 +331,84 @@ session_start();
         </div>
 
 
-<!-- Ciocolată, alune, cafea -->
+<!-- Pancakes -->
         <div class="col-md-6 mb-5 pb-3">
-        		<h3 class="mb-5 heading-pricing ftco-animate">Ciocolată, alune</h3>
+        		<h3 class="mb-5 heading-pricing ftco-animate">Clătite cu înghețată</h3>
 
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/ciac_1.jpg);"></div>
+        			<div class="img" style="background-image: url(images/pink.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Nuci pecan și cremă Ferrero Rocher</span></h3>
-	        				<span class="price">9.5 RON</span>
+	        				<h3><span>Pinktastic</span></h3>
+	        				<span class="price">19.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+	        				<p>Inghetata cu stil și gust amețitor de bun pentru iubitorii de inghetata si clatite</p>
 	        			</div>
         			</div>
         		</div>
 
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/ciac_2.jpg);"></div>
+        			<div class="img" style="background-image: url(images/caramel.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Nutella</span></h3>
-	        				<span class="price">10.5 RON</span>
+	        				<h3><span>Caramel sărat</span></h3>
+	        				<span class="price">15.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+	        				<p>Gustul clatitelor pufoase se imbina perfect cu inghetata de vanilie si toppingul de caramel sarat</p>
 	        			</div>
 	        		</div>
         		</div>
 
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/ciac_3.jpg);"></div>
+        			<div class="img" style="background-image: url(images/mango.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Sneakers</span></h3>
-	        				<span class="price">11 RON</span>
+	        				<h3><span>Banane&Mango</span></h3>
+	        				<span class="price">18 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+	        				<p>Gustul exotic este perfect pentru o zi calduroasa de vara</p>
 	        			</div>
 	        		</div>
         		</div>
 
         		<div class="pricing-entry d-flex ftco-animate">
-        			<div class="img" style="background-image: url(images/ciac_4.jpg);"></div>
+        			<div class="img" style="background-image: url(images/cherry.jpg);"></div>
         			<div class="desc pl-3">
 	        			<div class="d-flex text align-items-center">
-	        				<h3><span>Mascarpone și ciocolată</span></h3>
-	        				<span class="price">8.5 RON</span>
+	        				<h3><span>Cherry</span></h3>
+	        				<span class="price">18.5 RON</span>
 	        			</div>
 	        			<div class="d-block">
-	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+	        				<p>Special pentru iubitorii de cirese cu un strop de savoare a ciocolatei</p>
 	        			</div>
 	        		</div>
         		</div>
 
             <div class="pricing-entry d-flex ftco-animate">
-              <div class="img" style="background-image: url(images/ciac_5.jpg);"></div>
+        			<div class="img" style="background-image: url(images/bezea.jpg);"></div>
+        			<div class="desc pl-3">
+	        			<div class="d-flex text align-items-center">
+	        				<h3><span>Marshmellow</span></h3>
+	        				<span class="price">18.5 RON</span>
+	        			</div>
+	        			<div class="d-block">
+	        				<p>Combinatia perfecta de dulce pentru iubitorii de bezele</p>
+	        			</div>
+	        		</div>
+        		</div>
+
+            <div class="pricing-entry d-flex ftco-animate">
+              <div class="img" style="background-image: url(images/lemon.jpg);"></div>
               <div class="desc pl-3">
                 <div class="d-flex text align-items-center">
-                  <h3><span>În stil Wachau</span></h3>
-                  <span class="price">12 RON</span>
+                  <h3><span>Lemon fresh</span></h3>
+                  <span class="price">16 RON</span>
                 </div>
                 <div class="d-block">
-                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                  <p>Gustul fresh al fructului se imbina perfect cu inghetata de vanilie cu mac</p>
                 </div>
               </div>
             </div>
@@ -390,71 +416,84 @@ session_start();
 
 
 
-<!-- Rafinate -->
+<!-- Icecream cupcakes -->
           <div class="col-md-6">
-                  		<h3 class="mb-5 heading-pricing ftco-animate">Rafinate</h3>
+                  		<h3 class="mb-5 heading-pricing ftco-animate">Brioșe cu înghețată</h3>
 
                   		<div class="pricing-entry d-flex ftco-animate">
-                  			<div class="img" style="background-image: url(images/raf_1.jpg);"></div>
+                  			<div class="img" style="background-image: url(images/unicorn.jpg);"></div>
                   			<div class="desc pl-3">
           	        			<div class="d-flex text align-items-center">
-          	        				<h3><span>Scorțișoară și brânză proaspătă</span></h3>
-          	        				<span class="price">8.5 RON</span>
+          	        				<h3><span>Unicorn</span></h3>
+          	        				<span class="price">12.5 RON</span>
           	        			</div>
           	        			<div class="d-block">
-          	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+          	        				<p>Pentru cei ce iubesc explozia de culoare, vor adora aceasta combinatie de savoare</p>
           	        			</div>
           	        		</div>
                   		</div>
 
                   		<div class="pricing-entry d-flex ftco-animate">
-                  			<div class="img" style="background-image: url(images/raf_2.jpg);"></div>
+                  			<div class="img" style="background-image: url(images/mint.jpg);"></div>
                   			<div class="desc pl-3">
           	        			<div class="d-flex text align-items-center">
-          	        				<h3><span>Marmeladă de căpșuni cu lapte bătut</span></h3>
-          	        				<span class="price">9 RON</span>
+          	        				<h3><span>Mint</span></h3>
+          	        				<span class="price">19 RON</span>
           	        			</div>
           	        			<div class="d-block">
-          	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+          	        				<p>Daca esti unul dintre cei care adora menta, aceasta briosa sigur e pe gustul tau</p>
           	        			</div>
           	        		</div>
                   		</div>
 
                   		<div class="pricing-entry d-flex ftco-animate">
-                  			<div class="img" style="background-image: url(images/raf_3.jpg);"></div>
+                  			<div class="img" style="background-image: url(images/pepene.jpg);"></div>
                   			<div class="desc pl-3">
           	        			<div class="d-flex text align-items-center">
-          	        				<h3><span>Mac și vanilie</span></h3>
-          	        				<span class="price">9.5 RON</span>
+          	        				<h3><span>Watermelon madness</span></h3>
+          	        				<span class="price">20.5 RON</span>
           	        			</div>
           	        			<div class="d-block">
-          	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+          	        				<p>Pentru toti fanii watermelon sugar hiiiigh</p>
           	        			</div>
           	        		</div>
                   		</div>
 
                   		<div class="pricing-entry d-flex ftco-animate">
-                  			<div class="img" style="background-image: url(images/raf_4.jpg);"></div>
+                  			<div class="img" style="background-image: url(images/candy.jpg);"></div>
                   			<div class="desc pl-3">
           	        			<div class="d-flex text align-items-center">
-          	        				<h3><span>Vanilie, nucă de cocos și brânză proaspătă</span></h3>
+          	        				<h3><span>Candy</span></h3>
           	        				<span class="price">14 RON</span>
           	        			</div>
           	        			<div class="d-block">
-          	        				<p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+          	        				<p>Cine iubeste dulciurile, poate savura combinatia acestora cu inghetata</p>
           	        			</div>
           	        	</div>
                 	</div>
 
                   <div class="pricing-entry d-flex ftco-animate">
-                    <div class="img" style="background-image: url(images/raf_5.jpg);"></div>
+                    <div class="img" style="background-image: url(images/bananacake.jpg);"></div>
                     <div class="desc pl-3">
                       <div class="d-flex text align-items-center">
-                        <h3><span>Marțipan și cremă de vanilie</span></h3>
-                        <span class="price">12.5 RON</span>
+                        <h3><span>Banana</span></h3>
+                        <span class="price">14 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p>Toti Minionii aleg banana na na</p>
+                      </div>
+                  </div>
+              </div>
+
+                  <div class="pricing-entry d-flex ftco-animate">
+                    <div class="img" style="background-image: url(images/cioco.jpg);"></div>
+                    <div class="desc pl-3">
+                      <div class="d-flex text align-items-center">
+                        <h3><span>Choco madness</span></h3>
+                        <span class="price">22.5 RON</span>
+                      </div>
+                      <div class="d-block">
+                        <p>Pentru cei ce indragesc ciocolata, aceasta combinatie este ideala</p>
                       </div>
                   </div>
               </div>
@@ -474,7 +513,7 @@ session_start();
                           <span class="price">16 RON</span>
                         </div>
                         <div class="d-block">
-                          <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                          <p></p>
                         </div>
                       </div>
                     </div>
@@ -487,7 +526,7 @@ session_start();
                           <span class="price">15 RON</span>
                         </div>
                         <div class="d-block">
-                          <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                          <p></p>
                         </div>
                       </div>
                     </div>
@@ -500,7 +539,7 @@ session_start();
                           <span class="price">14.5 RON</span>
                         </div>
                         <div class="d-block">
-                          <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                          <p></p>
                         </div>
                       </div>
                     </div>
@@ -513,7 +552,7 @@ session_start();
                           <span class="price">16.5 RON</span>
                         </div>
                         <div class="d-block">
-                          <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                          <p></p>
                         </div>
                       </div>
                     </div>
@@ -526,7 +565,7 @@ session_start();
                           <span class="price">16 RON</span>
                         </div>
                         <div class="d-block">
-                          <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                          <p></p>
                         </div>
                     </div>
                 </div>
@@ -539,7 +578,7 @@ session_start();
                       <span class="price">17 RON</span>
                     </div>
                     <div class="d-block">
-                      <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                      <p></p>
                     </div>
                 </div>
             </div>
@@ -557,7 +596,7 @@ session_start();
                         <span class="price">6 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                     </div>
                   </div>
@@ -570,7 +609,7 @@ session_start();
                         <span class="price">8 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                     </div>
                   </div>
@@ -583,7 +622,7 @@ session_start();
                         <span class="price">10 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                     </div>
                   </div>
@@ -596,7 +635,7 @@ session_start();
                         <span class="price">12 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                     </div>
                   </div>
@@ -609,7 +648,7 @@ session_start();
                         <span class="price">8.5 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                     </div>
                   </div>
@@ -622,7 +661,7 @@ session_start();
                         <span class="price">14 RON</span>
                       </div>
                       <div class="d-block">
-                        <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                        <p></p>
                       </div>
                   </div>
               </div>
@@ -640,7 +679,7 @@ session_start();
                                 <span class="price">6 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                             </div>
                           </div>
@@ -653,7 +692,7 @@ session_start();
                                 <span class="price">8 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                             </div>
                           </div>
@@ -666,7 +705,7 @@ session_start();
                                 <span class="price">10 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                             </div>
                           </div>
@@ -679,7 +718,7 @@ session_start();
                                 <span class="price">12 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                             </div>
                           </div>
@@ -692,7 +731,7 @@ session_start();
                                 <span class="price">8.5 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                             </div>
                           </div>
@@ -705,11 +744,13 @@ session_start();
                                 <span class="price">14 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
+                                <p></p>
                               </div>
                           </div>
                       </div>
                 </div>
+
 
         <!-- Apa & Sucuri -->
                   <div class="col-md-6">
@@ -720,10 +761,10 @@ session_start();
                             <div class="desc pl-3">
                               <div class="d-flex text align-items-center">
                                 <h3><span>Apa (plata/minerala)</span></h3>
-                                <span class="price">16 RON</span>
+                                <span class="price">5 RON</span>
                               </div>
                               <div class="d-block">
-                                <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                <p></p>
                               </div>
                           </div>
                       </div>
@@ -733,10 +774,10 @@ session_start();
                               <div class="desc pl-3">
                                 <div class="d-flex text align-items-center">
                                   <h3><span>Fresh de portocale</span></h3>
-                                  <span class="price">16 RON</span>
+                                  <span class="price">14 RON</span>
                                 </div>
                                 <div class="d-block">
-                                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                  <p></p>
                                 </div>
                               </div>
                             </div>
@@ -749,7 +790,7 @@ session_start();
                                   <span class="price">15 RON</span>
                                 </div>
                                 <div class="d-block">
-                                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                  <p></p>
                                 </div>
                               </div>
                             </div>
@@ -759,10 +800,10 @@ session_start();
                               <div class="desc pl-3">
                                 <div class="d-flex text align-items-center">
                                   <h3><span>Fresh rodie</span></h3>
-                                  <span class="price">14.5 RON</span>
+                                  <span class="price">14 RON</span>
                                 </div>
                                 <div class="d-block">
-                                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                  <p></p>
                                 </div>
                               </div>
                             </div>
@@ -772,10 +813,10 @@ session_start();
                               <div class="desc pl-3">
                                 <div class="d-flex text align-items-center">
                                   <h3><span>Cola/Fanta/Sprite</span></h3>
-                                  <span class="price">16.5 RON</span>
+                                  <span class="price">6.5 RON</span>
                                 </div>
                                 <div class="d-block">
-                                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                  <p></p>
                                 </div>
                               </div>
                             </div>
@@ -785,10 +826,10 @@ session_start();
                               <div class="desc pl-3">
                                 <div class="d-flex text align-items-center">
                                   <h3><span>Ice Tea</span></h3>
-                                  <span class="price">16 RON</span>
+                                  <span class="price">10 RON</span>
                                 </div>
                                 <div class="d-block">
-                                  <p>Aici descriere descriere cu o descriere despre descriere descriere desc</p>
+                                  <p></p>
                                 </div>
                             </div>
                         </div>
@@ -821,7 +862,7 @@ session_start();
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Descoperă</span>
             <h2 class="mb-4">Sortimente aparte</h2>
-            <p>Descrieredescrieredescrieredescrieredescrieredescrieredescrieredescrieredescriere</p>
+            <p>Sortimente delicioase pentru doritorii de combinatii inedite</p>
           </div>
         </div>
 
@@ -847,7 +888,7 @@ session_start();
                     <!-- Europa -->
 		              		<div class="col-md-4 text-center">
 		              			<div class="menu-wrap">
-		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_affogato.jpg);"></a>
+		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/caf_frappe.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Affogato (Italia)</a></h3>
 		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>

@@ -12,7 +12,7 @@ $phone = "";
 $errors = array();
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'cup_and_cake');
+$db = mysqli_connect('localhost', 'root', '', 'inghetatamirunata');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {

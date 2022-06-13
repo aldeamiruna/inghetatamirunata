@@ -5,7 +5,7 @@ function print_footer() {
 	$dbServerName = "localhost";
 	$dbUserName = "root";
 	$dbPassword = "";
-	$dbName = "cup_and_cake";
+	$dbName = "inghetatamirunata";
 
 	$conn = mysqli_connect($dbServerName, $dbUserName, $dbPassword, $dbName);
 
