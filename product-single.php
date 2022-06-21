@@ -158,7 +158,7 @@ if(!empty($_SESSION['user_type'])) {
               echo '<p>' . $product_description .'</p>';
               echo '<div class="row mt-4">';
               echo '<div class="w-100"></div>';
-      
+
 
 
           //echo '<p><a href="cart.php" class="btn btn-primary py-3 px-5">Adaugă în Coș</a></p>';

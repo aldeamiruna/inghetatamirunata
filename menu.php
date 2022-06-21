@@ -891,7 +891,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/caf_frappe.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Affogato (Italia)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>12 RON</span></p>
 		              				</div>
 		              			</div>
@@ -902,7 +902,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_einspanner.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Einspänner (Austria)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>11.5 RON</span></p>
 		              				</div>
 		              			</div>
@@ -913,7 +913,7 @@ session_start();
                           <a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_kaffeost.jpg);"></a>
                           <div class="text">
                             <h3><a href="#">Kaffeost (Suedia)</a></h3>
-                            <p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+                            <p></p>
                             <p class="price"><span>9.5 RON</span></p>
                           </div>
                         </div>
@@ -924,7 +924,7 @@ session_start();
                           <a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_espresso_romano.jpg);"></a>
                           <div class="text">
                             <h3><a href="#">Espresso Romano (Italia)</a></h3>
-                            <p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+                            <p></p>
                             <p class="price"><span>7 RON</span></p>
                           </div>
                         </div>
@@ -935,7 +935,7 @@ session_start();
                           <a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_pharisaer.jpg);"></a>
                           <div class="text">
                             <h3><a href="#">Pharisäer Kaffee (Germania)</a></h3>
-                            <p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+                            <p></p>
                             <p class="price"><span>9.5 RON</span></p>
                           </div>
                         </div>
@@ -946,7 +946,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/eu_mazagran.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Mazagran (Portugalia)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>7.5 RON</span></p>
 		              				</div>
 		              			</div>
@@ -965,7 +965,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_caphetrung.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Ca Phe Trung (Vietnam)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>9.5 RON</span></p>
 		              				</div>
 		              			</div>
@@ -976,7 +976,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_kopijoss.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Kopi Joss (Indonesia)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>8.50</span></p>
 		              				</div>
 		              			</div>
@@ -987,7 +987,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_qahwa.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Qahwa (Arabia Saudită)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>7 RON</span></p>
 		              				</div>
 		              			</div>
@@ -998,7 +998,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_bulletproof.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Bulletproof Coffee (USA)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>11 RON</span></p>
 		              				</div>
 		              			</div>
@@ -1009,7 +1009,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_lagrima.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Cafe Lagrima (Argentina)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>9 RON</span></p>
 		              				</div>
 		              			</div>
@@ -1020,7 +1020,7 @@ session_start();
 		              				<a href="#" class="menu-img img mb-4" style="background-image: url(images/alte_cafezinho.jpg);"></a>
 		              				<div class="text">
 		              					<h3><a href="#">Cafezinho (Brazilia)</a></h3>
-		              					<p>Descriere descriereresdesdesdc descriere descriere descriere</p>
+		              					<p></p>
 		              					<p class="price"><span>9 RON</span></p>
 		              				</div>
 		              			</div>

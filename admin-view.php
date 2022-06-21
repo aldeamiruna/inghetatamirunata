@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 include('navbar.php');
 include('footer.php');
@@ -23,7 +24,6 @@ if(!empty($_POST['ban'])) {
 			unset($_SESSION['unban_email']);
 		}
 	}
-
 }
 
 // USER UNBAN
@@ -47,10 +47,11 @@ if(!empty($_POST['unban'])) {
 
 // REMOVE USER
 if(!empty($_POST['remove'])) {
-	$sqlDeleteClient = "DELETE FROM `clients` WHERE client_id= " . $_POST['client_id'] . ";";
-	$sqlDeleteComments = "DELETE FROM `comments` WHERE user_id= " . $_POST['client_id'] . " AND user_type = 'client' ;";
-  	mysqli_query($conn,$sqlDeleteClient);
+	$sqlDeleteClient = "DELETE FROM `clients` WHERE client_id = " . $_POST['client_id'] . ";";
+	$sqlDeleteComments = "DELETE FROM `comments` WHERE client_id = " . $_POST['client_id'] . ";";
+
 	mysqli_query($conn,$sqlDeleteComments);
+	mysqli_query($conn,$sqlDeleteClient);
 }
 
 ?>

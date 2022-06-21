@@ -1,6 +1,7 @@
 <?php
 
 include('navbar.php');
+session_start();
 
 if(!empty($_POST['submitted'])) {
     $dbServerName = "localhost";

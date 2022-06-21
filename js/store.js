@@ -5,8 +5,6 @@ if(document.readyState == 'loading') {
 }
 
 // init -> false => arrays are not initialized
-// productNames = []
-// productQuantities = []
 var init = false
 
 function ready() {
@@ -48,10 +46,10 @@ function removeCartItem(event) {
 	//console.log(productNames.indexOf(productName))
 
 	// store the index of the removed element
-	var indexRemove = productNames.indexOf(productName)
+	var indexRemove = window.productNames.indexOf(productName)
 	// remove the product and quantity from arrays
-	productNames.splice(indexRemove,1)
-	productQuantities.splice(indexRemove,1)
+	window.productNames.splice(indexRemove,1)
+	window.productQuantities.splice(indexRemove,1)
 
 	// update the the $_SESSION['shopping_cart']
 	removeCartItemPHP(productName)
@@ -71,8 +69,8 @@ function quantityChanged(event) {
 }
 
 
-var productNames = []
-var productQuantities = []
+// var productNames = []
+// var productQuantities = []
 
 function updateCartNumberIcon() {
 	var itemNumber = 0
@@ -101,6 +99,10 @@ function updateCartTotal() {
     var cartItemContainer = document.getElementsByClassName('table')[0]
     var cartRows = cartItemContainer.getElementsByClassName('cart-row')
 	total = 0
+
+		window.productNames = new Array(cartRows.length)
+		window.productQuantities = new Array(cartRows.length)
+
     for (var i = 0; i < cartRows.length; i++) {
         var cartRow = cartRows[i]
 
@@ -113,28 +115,25 @@ function updateCartTotal() {
 
 		var rowTotal = cartRow.getElementsByClassName('total')[0]
 
-		// array is always actualised
+		if(!init) {
+			window.productNames.push(productElement.textContent)
+			window.productQuantities.push(quantity)
+		}
+
+		// array is always updated
 		if(productQuantities[i] != quantity) {
 			console.log("diff")
 			updateQuantityPHP(productElement.textContent, quantity)
 		}
 
-		if(!init) {
-			productNames.push(productElement.textContent)
-			productQuantities.push(quantity)
-		}
-
-
-
 		total = total + (price * quantity)
     }
 
-	// updateCartNumberIcon()
+	updateCartNumberIcon()
 
 
 	// we initialised the arrays
 	init = true
-
 
 	var subTotalElement = document.getElementById('subtotal-price')
 	var deliveryElement = document.getElementById('delivery-price')

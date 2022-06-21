@@ -65,7 +65,7 @@ if (isset($_POST['reg_user'])) {
   	$query = "INSERT INTO clients(`client_id`, `client_firstname`, `client_lastname`, `client_email`, `client_username`, `client_password`, `client_birthdate`, `client_gender`, `client_phone`, `ban_expiry_date`)
   			  VALUES(NULL, '$firstname', '$lastname', '$email', '$username', '$password', '$birthdate', '$gender', $phone, NULL);";
 
-	mail($email ,'Welcome to our family!',"Hello $username",'From: Cup & Cake <roli_szekely@yahoo.com>');
+	mail($email ,'Welcome to our family!',"Hello $username",'From: Inghetata Mirunata <aldea.miruna@yahoo.com>');
 
   	mysqli_query($db, $query);
   	$_SESSION['username'] = $username;
